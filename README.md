@@ -4,7 +4,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcceloSpinelli&layout=compact)
 
-![Marccelo GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcceloSpinelli&show_icons=true&theme=dark)
 
 
 ## Tecnologias mais utilizadas
