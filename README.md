@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marccelo-spinelli-24739b2a2/)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcceloSpinelli&layout=compact)
 
 ![Marccelo GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcceloSpinelli&show_icons=true&theme=dark)
 
