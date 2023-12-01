@@ -1,9 +1,6 @@
 ### Olá, eu sou o Marccelo! (Ele/Dele)
 
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)(marccelospinelli@outlook.com)]
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in/marccelo-spinelli-24739b2a2/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marccelo-spinelli-24739b2a2/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcceloSpinelli&layout=compact)
 
